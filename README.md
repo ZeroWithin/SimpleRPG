@@ -1,2 +1,1 @@
-# SimpleRPG
-A simple RPG battle I made to test my basic abilities in using Lua to program a game.
+Decide your movements wisely and **defeat the enemy**!<br/>***Hope you enjoy!***
